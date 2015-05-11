@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout  
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="10" >
+
+    </LinearLayout>
+<LinearLayout  
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="6" >
+    <Button
+        android:id="@+id/bBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etCommands"
+        android:text="Back"
+        android:textSize="14dp"
+        android:layout_weight="2"/>
+
+    <Button
+        android:id="@+id/bForward"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Forward"
+        android:textSize="14dp"
+        android:layout_weight="2" />
+    <Button
+        android:id="@+id/bRefresh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Refresh"
+        android:textSize="14dp"
+        android:layout_weight="2"/>
+
+
+</LinearLayout>
+	<WebView android:layout_width="fill_parent" android:layout_height="fill_parent"
+	    android:id="@+id/wvBrowser"
+	    />
+</LinearLayout>

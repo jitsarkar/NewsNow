@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\studio\NewsNow3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\studio\NewsNow3\app\build\intermediates\pre-dexed\debug\classes-47966d43a882799ef870696173199a0ee14f053a.jar" />
+    </item>
+    <item
+        jar="D:\studio\NewsNow3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\studio\NewsNow3\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-51a040792b4a0a2cae5eadd78f152275ace0be33.jar" />
+    </item>
+    <item
+        jar="D:\studio\NewsNow3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\studio\NewsNow3\app\build\intermediates\pre-dexed\debug\classes-bf37a5bb1d683b24315c14f7eab5b31daed8aaf1.jar" />
+    </item>
+    <item
+        jar="D:\studio\NewsNow3\app\libs\unirest-java-1.4.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="674128dedd39ed4f128c8c74a2608c372e2d1a95">
+        <dex dex="D:\studio\NewsNow3\app\build\intermediates\pre-dexed\debug\unirest-java-1.4.5-1ce6f3dd06907975a725803b2696b8f69ecdbbde.jar" />
+    </item>
+    <item
+        jar="D:\studio\NewsNow3\app\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="D:\studio\NewsNow3\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-2183a3b26391fcfae81289d48bf357934de4f561.jar" />
+    </item>
+    <item
+        jar="D:\studio\NewsNow3\app\libs\microsoft-translator-java-api-0.6.1-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ab0981a9cf0c30be42a5bbee9fd7da179d8a4ae">
+        <dex dex="D:\studio\NewsNow3\app\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.6.1-jar-with-dependencies-7cff9b86c3e8379aed5f0115e0d7eb511e2eb4dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\studio\NewsNow3\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-97150c646f409261b881afea83f540a504e2c827.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+D:\studio\NewsNow3\app\build\intermediates\classes\release
+D:\studio\NewsNow3\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-97150c646f409261b881afea83f540a504e2c827.jar
+D:\studio\NewsNow3\app\build\intermediates\pre-dexed\release\microsoft-translator-java-api-0.6.1-jar-with-dependencies-7cff9b86c3e8379aed5f0115e0d7eb511e2eb4dd.jar
+D:\studio\NewsNow3\app\build\intermediates\pre-dexed\release\unirest-java-1.4.5-1ce6f3dd06907975a725803b2696b8f69ecdbbde.jar
+D:\studio\NewsNow3\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-51a040792b4a0a2cae5eadd78f152275ace0be33.jar
+D:\studio\NewsNow3\app\build\intermediates\pre-dexed\release\jsoup-1.8.1-2183a3b26391fcfae81289d48bf357934de4f561.jar
+D:\studio\NewsNow3\app\build\intermediates\pre-dexed\release\classes-bf37a5bb1d683b24315c14f7eab5b31daed8aaf1.jar
+D:\studio\NewsNow3\app\build\intermediates\pre-dexed\release\classes-47966d43a882799ef870696173199a0ee14f053a.jar

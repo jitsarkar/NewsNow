@@ -1,0 +1,293 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/rr"
+    >
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lay"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/bBreakingNews"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="Top News"
+                android:textSize="17dp"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bIndia"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:textSize="17dp"
+                android:text="India"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bWorld"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:textSize="17dp"
+                android:shadowRadius="5"
+                android:text="World"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bBusiness"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:textSize="17dp"
+                android:shadowRadius="5"
+                android:text="Business"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bTech"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:textSize="17dp"
+                android:shadowRadius="5"
+                android:text="Tech"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bCricket"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:textSize="17dp"
+                android:shadowRadius="5"
+                android:text="Cricket"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bSports"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:textSize="17dp"
+                android:text="Sports"
+                android:textColor="#F0FAFF" />
+            
+            <Button
+                android:id="@+id/bNRI"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:textSize="17dp"
+                android:shadowRadius="5"
+                android:text="NRI"
+                android:textColor="#F0FAFF" />
+            <Button
+                android:id="@+id/bEnvironment"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:textSize="17dp"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="Environment"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bTV"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:textSize="17dp"
+                android:shadowRadius="5"
+                android:text="TV"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bEvents"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:textSize="17dp"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="Events"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bEducation"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:textSize="17dp"
+                android:text="Education"
+                android:textColor="#F0FAFF" />
+
+            
+
+            <Button
+                android:id="@+id/bScience"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:textSize="17dp"
+                android:shadowRadius="5"
+                android:text="Science"
+                android:textColor="#F0FAFF" />
+
+
+            <Button
+                android:id="@+id/bBeauty"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:textSize="17dp"
+                android:shadowRadius="5"
+                android:text="Beauty"
+                android:textColor="#F0FAFF" />
+
+            <Button
+                android:id="@+id/bLocal"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#2605A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:textSize="17dp"
+
+                android:text="Local"
+                android:textColor="#F0FAFF" />
+        </LinearLayout>
+    </HorizontalScrollView>
+    <LinearLayout
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchlay"
+        android:weightSum="10"
+        >
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="43dp"
+            android:id="@+id/etNews"
+            android:background="#ffffff"
+            android:hint="Search News"
+            android:layout_weight="9" />
+        <ImageButton
+            android:layout_width="25dp"
+            android:layout_height="43dp"
+            android:id="@+id/imageButton"
+            android:layout_weight="1"
+            android:src="@android:drawable/ic_menu_search"
+            />
+
+
+    </LinearLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LIVE SCORE"
+        android:id="@+id/bLive"
+        android:layout_gravity="right"
+        />
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+       >
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:id="@+id/IVmainImg"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+
+
+        />
+
+        <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:id="@+id/TVmainCap" />
+    </LinearLayout>
+</ScrollView>
+    <ListView
+        android:id="@+id/list_news"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp"
+        android:fadingEdge="none"
+        android:listSelector="@android:color/transparent"
+        android:padding="10dp"
+        />
+
+
+    
+</LinearLayout>
+

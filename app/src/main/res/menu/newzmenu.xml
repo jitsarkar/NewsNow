@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item
+        android:id="@+id/side_TopNews"
+        android:icon="@drawable/ic_launcher"
+        android:title="Top News"/>
+    <item
+        android:id="@+id/side_tech"
+        android:icon="@drawable/ic_launcher"
+        android:title="Tech"/>
+    <item
+        android:id="@+id/side_Cricket"
+        android:icon="@drawable/ic_launcher"
+        android:title="Cricket"/>
+    <item
+        android:id="@+id/side_Business"
+        android:icon="@drawable/ic_launcher"
+        android:title="Business"/>
+    <item
+        android:id="@+id/side_India"
+        android:icon="@drawable/ic_launcher"
+        android:title="India"/>
+    <item
+        android:id="@+id/side_World"
+        android:icon="@drawable/ic_launcher"
+        android:title="World"/>
+    <item
+        android:id="@+id/side_Education"
+        android:icon="@drawable/ic_launcher"
+        android:title="Education"/>
+    <item
+        android:id="@+id/side_Environment"
+        android:icon="@drawable/ic_launcher"
+        android:title="Enironment"/>
+    <item
+        android:id="@+id/side_NRI"
+        android:icon="@drawable/ic_launcher"
+        android:title="NRI"/>
+    <item
+        android:id="@+id/side_Science"
+        android:icon="@drawable/ic_launcher"
+        android:title="Science"/>
+    <item
+        android:id="@+id/side_Events"
+        android:icon="@drawable/ic_launcher"
+        android:title="Events"/>
+    <item
+        android:id="@+id/side_TV"
+        android:icon="@drawable/ic_launcher"
+        android:title="TV"/>
+    <item
+        android:id="@+id/side_Beauty"
+        android:icon="@drawable/ic_launcher"
+        android:title="Beauty"/>
+   <item
+        android:id="@+id/side_Sports"
+        android:icon="@drawable/ic_launcher"
+        android:title="Sports"/>
+    <item
+        android:id="@+id/side_Local"
+        android:icon="@drawable/ic_launcher"
+        android:title="Local News"/>
+    
+</menu>

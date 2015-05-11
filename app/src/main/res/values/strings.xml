@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewZer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_syn">SynActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="Breaking_news">NewZer</string>
+    <string name="Details">Details News</string>
+    <string name="pref_location_label">Nearest City</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false"></string>
+    <string name="pref_units_label">Font Sizes</string>
+    <string name="pref_units_key">font</string>
+    <string name="pref_units_metric">normal</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section4">Section 4</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+
+    <string-array name="pref_units_values">
+        <item>small</item>
+        <item>normal</item>
+        <item>large</item>
+    </string-array>
+    <string-array name="pref_units_options">
+        <item>small</item>
+        <item>normal</item>
+        <item>large</item>
+    </string-array>
+
+    <string name="pref_font_small">small</string>
+    <string name="pref_font_normal">normal</string>
+    <string name="pref_font_large">large</string>
+    <string name="title_activity_web">WebActivity</string>
+    <color name="Mythemecol">#F25968</color>
+
+</resources>
